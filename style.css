@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html:has(#myCheckBox:checked){
+    overflow: hidden;
+}
+
 body {
     position: relative;
     height: 2000px;
