@@ -1,0 +1,1 @@
+Sidenav without javascript test
